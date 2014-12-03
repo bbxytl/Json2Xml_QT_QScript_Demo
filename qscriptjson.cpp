@@ -90,7 +90,7 @@ void QScriptJson::getPropety(QScriptValue sv,QStringList sLsPty)
         }
     }
 }
-
+//这个函数只是为了不影响上一个函数的美观再写的，逻辑是一样的！如果不需要输出，可以不写，并且可以合并到上一个函数里
 void QScriptJson::getPropety(QScriptValue sv, QStringList sLsPty,QString space)
 {
     foreach(QString str,sLsPty){
