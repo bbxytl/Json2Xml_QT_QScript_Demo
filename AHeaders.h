@@ -6,7 +6,7 @@
 #include <QString>
 #include <QStringList>
 #include <QXmlStreamWriter>
-
+//定义宏
 #define dbg qDebug()
 
 #endif // AHEADERS_H
