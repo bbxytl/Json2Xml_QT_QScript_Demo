@@ -8,7 +8,7 @@ QT       += core gui script
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
-TARGET = Json2Xml_QT_QScript
+TARGET = Json2Xml_QT_QScript_Demo
 TEMPLATE = app
 
 
